@@ -2,6 +2,9 @@
 
 This is a website build from asp.net core mvc and use EF
 
+Setup Project when cloning to local machine
+Accessing into appsettings.json and edit DefaultConnection to connect your local database
+
 # CRUD With Category
 ![image](https://github.com/JustEmty/BulklyWeb---MVC/assets/94843952/28087b04-b2a9-491a-9437-fe8c93836fab)
 
