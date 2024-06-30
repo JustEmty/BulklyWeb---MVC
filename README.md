@@ -2,7 +2,7 @@
 
 This is a website build from asp.net core mvc and use EF
 
-Setup Project when cloning to local machine
+# Setup Project when cloning to local machine
 
 Accessing into appsettings.json and edit DefaultConnection to connect your local database
 
